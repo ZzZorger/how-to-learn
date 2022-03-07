@@ -1,0 +1,12 @@
+/* div, a, p{
+  border: 1px solid green;
+}
+section {
+  border: 1px solid red;
+} */
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
