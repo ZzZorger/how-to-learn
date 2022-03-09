@@ -4,6 +4,7 @@
   height: 316px;
   width: 515px;
   margin-bottom: -50px;
+  border:0;
 }
 .video__iframe:nth-child(1){
   margin-right: 20px;
