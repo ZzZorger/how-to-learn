@@ -10,4 +10,4 @@
 + BEM Nested
 + GIT
 
-В планах выложить проект на GHPages
+https://zzzorger.github.io/how-to-learn/
